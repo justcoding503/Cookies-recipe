@@ -1,0 +1,150 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/02/83/62/70/360_F_283627076_DoK3nhzJMgUA0YFPKcGrn3PoB6VrrBYv.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #C76706;
+}
+h1{
+    font-family: fantasy;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+    padding-top: 40px;
+}
+img{
+    max-width: 40%;
+    height: auto;
+    float: right;
+    margin-top: 20px;
+    padding-bottom: 58px;
+}
+span{
+    font-family: monospace;
+}
+a{
+    color:rgb(106, 16, 215);
+    transition: color 0.3s ease;
+}
+a:hover{
+    color:blue;
+}
+.ing{
+    background-image: url(https://t3.ftcdn.net/jpg/02/90/42/50/360_F_290425002_P98Y9RZ6pY1usk8ytASKfaluuaStowX4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 130px;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.chat{
+    font-family: sans, Arial, sans-serif;
+    font-style: oblique;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+h4{
+    font-size: 20px;
+    padding-left: 80px;
+}
+.mesurments{
+    font-size: 15px;
+    font-style:oblique ;
+}
+.inst{
+    background-image: url(https://img.magnific.com/free-photo/biscuits-wheat-with-copy-space-background_23-2148432372.jpg?semt=ais_hybrid&w=740&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+ol{
+    padding-bottom: 20px;
+    padding-left: 190px;
+    padding-right: 165px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 15px;
+}
+.title{
+    padding-top: 25px;
+    font-family: Bold;
+    letter-spacing: 2px;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+.text{
+    padding: 0px;
+    margin-left: 60px;
+    margin-right: 70px;
+    font-size: 15px;
+    box-sizing: border-box;
+    border: 0px solid #D2A26F;
+    background-color: #D2A26F;
+    text-align: center;
+}
+hr{
+    padding-bottom: 7px;
+    border-width: 0px;
+}
+.details{
+    background-image: url(https://img.magnific.com/free-photo/top-view-chocolate-cookies-sugar-sweets-white-background-cookie-biscuit-sugar-sweet-pie_140725-74485.jpg?semt=ais_hybrid&w=740&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.note{
+    padding-left: 50px;
+    font-size: 20px;
+    float: right;
+}
+.dets{
+    font-family: fantasy;
+    letter-spacing: 2px;
+    font-size: 30px;
+    text-align: center;
+}
+.tip{
+    font-size: 20px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 2px solid pink;
+    background-color: pink;
+}
+.tips{
+    font-family: monospace;
+    font-size: 20px;
+    float: right;
+    padding-left: 250px;
+    padding-bottom: 52px;
+}
+.det{
+    font-family: fantasy;
+    letter-spacing: 1px;
+    font-size: 25px;
+    padding-left: 280px;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+.anchor{
+    margin-left: 10px;
+}
+.anchors{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: space-between;
+    padding: 0px 15px;
+    background-color: #D2A26F;
+}
