@@ -147,4 +147,14 @@ hr{
     justify-content: space-between;
     padding: 0px 15px;
     background-color: #D2A26F;
+       animation-name: test;
+    animation-timimg-fuction: linear;
+    animation-duration: 4s;
+}
+@keyframes test{
+    from{
+        transition: translateX(-100px);
+    }
+    to{
+        transition: translateX(200px);
 }
